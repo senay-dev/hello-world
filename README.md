@@ -1,1 +1,1 @@
-![headshot](Capture.jpeg)
+![headshot](Capture.JPG)
