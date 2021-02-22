@@ -1,0 +1,78 @@
+567
+
+aquatics
+athletics
+basketball
+boxing
+cycling
+gymnastics
+judo
+rowing
+shooting
+tennis
+triathlon
+wrestling
+
+China,404
+India,123
+United States,567
+Indonesia,28
+Brazil,485
+
+United States,74
+Russia,38
+Germany,29
+China,28
+United Kingdom,27
+
+A Jesus Garcia,21.6333
+A Lam Shin,19.8413
+Aaron Brown,20.151
+Aaron Cook,23.8884
+Aaron Gate,21.6721
+Aaron Royle,20.679
+Aaron Russell,23.3195
+Aauri Lorena Bokesa,19.1358
+Ababel Yeshaneh,19.8347
+Abadi Hadis,21.7993
+
+United States,4,4
+Brazil,4,4
+Germany,3,3
+Australia,3,3
+France,3,3
+China,3,3
+United Kingdom,3,3
+Japan,2,2
+Canada,2,2
+Spain,2,2
+Italy,2,2
+Russia,2,2
+Netherlands,2,2
+Poland,2,2
+Argentina,1,1
+Korea, South,1,1
+New Zealand,1,1
+Ukraine,1,1
+Sweden,1,1
+Colombia,1,1
+
+Gambia,Malawi,99.5514
+Philippines,Vanuatu,98.8874
+Comoros,Ethiopia,98.2794
+Uruguay,Seychelles,97.8815
+Congo, Dem Rep,Niger,97.0946
+
+217
+
+19
+
+19
+289
+
+A Trip to the Moon
+Paths of Glory
+Deliverance
+Gravity
+Amour
+Star Wars: Episode VII - The Force Awakens
