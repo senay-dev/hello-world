@@ -1,3 +1,7 @@
+---
+layout: post
+author: Senay Tesfamichael
+---
 
 # hello-world
 My first repository
